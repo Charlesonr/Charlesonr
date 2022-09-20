@@ -1,6 +1,10 @@
 ## Hi guys, Charleson here 🦆
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesonr&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesonr&layout=compact&theme=github_dark)
+<div align="center">
+<a href="https://github.com/charlesonr">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesonr&count_private=true&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesonr&layout=compact&theme=github_dark"/>
+</div>
 
 ## 🧰 &nbsp;My toolbox
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" width="40"/> <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=023" height="40" width="40"/> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=023" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/> 
