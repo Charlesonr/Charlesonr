@@ -4,8 +4,8 @@
 
 <div align="center">
 <a href="https://github.com/charlesonr">
-<img height="179em" src="https://github-readme-stats.vercel.app/api?username=charlesonr&count_private=false&show_icons=true&theme=github_dark"/>
-<img height="179em" src="https://github-readme-stats-six-navy.vercel.app/api/top-langs?username=charlesonr&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesonr&count_private=false&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesonr&layout=compact&theme=github_dark"/>
 </div>
 
 ### 🧰🖥 &nbsp;My Web dev toolbox
@@ -19,9 +19,7 @@
  
  
 ### 📠 &nbsp;Contact Me
-<a href="mailto:charlesonribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://codepen.io/charlesonr"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> <a href="https://www.linkedin.com/in/charlesongr/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/charlesongr/"/></a> <a href="https://dev.to/charlesonr"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> <a href="https://medium.com/@cgrguedesribeiro"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-          
-          
+<a href="mailto:charlesonribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://codepen.io/charlesonr"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> <a href="https://www.linkedin.com/in/charlesongr/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/charlesongr/"/></a> <a href="https://dev.to/charlesonr"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> <a href="https://medium.com/@cgrguedesribeiro"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> <a href="https://linktr.ee/charlesongr"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> 
           
           
 
