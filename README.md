@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQEZnXJT6TqlQw/profile-displaybackgroundimage-shrink_350_1400/0/1666152814806?e=1676505600&v=beta&t=TKsg_1gwez5cDK14N58LrVQLWzK_mcc1El3eqisyBVo"/>
+<img src="https://media.licdn.com/dms/image/D4D16AQEZnXJT6TqlQw/profile-displaybackgroundimage-shrink_350_1400/0/1666152814806?e=1681948800&v=beta&t=nC_mCDwMSObKnqrh2hHRrRiq1dY-bvDyuCEAKA7Makg"/>
 
 ## Hi guys, Charleson here 🦆
 
