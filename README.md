@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHlxc2qSD5egg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700105021622?e=1738195200&v=beta&t=JU0OtZHEJVewAsqrnofZFVWA7w0Wf8dppQcSpLZQaQ8"/>
 
-## Hi guys, Charleson here 🦆
+## Hi guys, Charleson here 🦉
 
 <div align="center">
 <a href="https://github.com/charlesonr">
