@@ -1,4 +1,7 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHlxc2qSD5egg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700105021622?e=1738195200&v=beta&t=JU0OtZHEJVewAsqrnofZFVWA7w0Wf8dppQcSpLZQaQ8"/>
+<div align="center" style="height: 100vh; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/853ff3da-c702-4cb7-95af-4e0793b85ed2" alt="Imagem" height="300" width="780">
+</div>
+
 
 ## Hi guys, Charleson here 🦉
 
